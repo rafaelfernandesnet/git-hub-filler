@@ -1,0 +1,14 @@
+{
+  "name": "git-hub-filler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "git-hub-filler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Fernandes <rafael.net.ca@gmail.com> (https://github.com/rafaelfernandesnet/fit-facebook)",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
